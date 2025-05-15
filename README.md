@@ -48,4 +48,5 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ---
 *Let's connect and build something amazing together!*
+_Last updated: {{date}}_
 
